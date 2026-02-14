@@ -6,7 +6,7 @@
 
 <img width="1919" height="1079" alt="Screenshot 2025-12-23 232740" src="https://github.com/user-attachments/assets/27288ae1-35f6-494a-8eb4-d31ec7e5e20e" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-12-23 233425" src="https://github.com/user-attachments/assets/9a119b31-aa8d-46a0-8632-132a6118f9c2" />
+
 
 ## Technical Architecture & Physics
 
@@ -31,7 +31,7 @@ The simulation is built upon a modular physics-based architecture where every co
 ## Visuals & Gameplay
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE.png" width="800" title="Carro-Simulation Overview">
+<img width="1919" height="1079" alt="Screenshot 2025-12-23 233425" src="https://github.com/user-attachments/assets/9a119b31-aa8d-46a0-8632-132a6118f9c2" />
 </p>
 
 *The simulation provides a balance between high-end technical accuracy and a visually immersive driving environment.*
@@ -50,3 +50,4 @@ The project follows a highly modular approach, allowing for:
 ## Getting Started
 
 ###
+
