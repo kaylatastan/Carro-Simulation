@@ -47,7 +47,5 @@ The project follows a highly modular approach, allowing for:
 
 ---
 
-## Getting Started
 
-###
 
