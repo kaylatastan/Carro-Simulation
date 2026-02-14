@@ -47,5 +47,23 @@ The project follows a highly modular approach, allowing for:
 
 ---
 
+## Getting Started
+
+### Prerequisites
+* Unity 2021.3 LTS or newer.
+* Understanding of basic vehicle dynamics (recommended).
+
+### Installation
+1.  Clone the repository:
+    ```bash
+    git clone git@github.com:kaylatastan/Carro-Simulation.git
+    ```
+2.  Open the project in Unity.
+3.  Locate and load the main simulation scene in the `Assets/Scenes` folder.
+
+---
+
+## Developer
+**Kayla Tastan**
 
 
